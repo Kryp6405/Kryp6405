@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kryp6405
 - 👀 I’m interested in Math, Engineering, Computer Science
-- 🌱 I’m currently learning Differetial Equations, Complex Analysis, Android Mobile App Development
-- 💞️ I’m looking to collaborate on Android and Apple mobile apps
+- 🌱 I’m currently learning Algorithms, and Machine + Deep + Reinfoced Learning
+- 💞️ I’m looking to collaborate on various AI/ML & Full Stack Projects
 - 📫 How to reach me krisnajit.r6405@gmail.com
 
 <!---
